@@ -5,6 +5,8 @@
       "name": "eslint-to-gritql-2",
       "dependencies": {
         "@typescript-eslint/typescript-estree": "^8.44.0",
+        "@typescript-eslint/visitor-keys": "^8.44.0",
+        "eslint-visitor-keys": "^4.2.1",
         "espree": "^10.4.0",
       },
       "devDependencies": {
