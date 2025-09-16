@@ -1,0 +1,14 @@
+{
+  "extends": ["@nivalis/biome-config"],
+  "linter": {
+    "rules": {
+      "style": {
+        "useConsistentArrayType": "off"
+      },
+      "nursery": {
+        "useConsistentTypeDefinitions": "off",
+        "noUnnecessaryConditions": "off"
+      }
+    }
+  }
+}
